@@ -5,7 +5,8 @@ data science and analytic projects
 1. Google sheet
 2. SQL
 3. R
-4. Machine learning
+4. Python
+5. Data Visualization
 
 ## Contact me
 Please feel free to contact me :)
