@@ -10,3 +10,6 @@ Linked : https://docs.google.com/spreadsheets/d/1Z3aOwMQU2K7YnDAleOSgbeZMAz4IcVZ
 # Query in Google sheet
 
 Linked : https://docs.google.com/spreadsheets/d/1wW7KkeVdz_ilvS0tbHWlKM-LR4zdEzt30-YkPqo7Wx8/edit?usp=sharing
+
+# Data Visualization in Google sheet
+Linked : https://docs.google.com/spreadsheets/d/1lIuBt8oqC8wVv5pPtNOwa9WIic5yAo_h785eBFNPDcs/edit?usp=sharing
