@@ -1,7 +1,7 @@
 # Data Science Bootcamp 11
-data science and analytic projects
+Welcome to my data science and analytic projects class
 
-## My personal projects
+## This is what I've got from this class
 1. Google sheet
 2. SQL
 3. R
